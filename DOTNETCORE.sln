@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34408.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOTNETCORE.ConsoleApp", "DOTNETCORE.ConsoleApp\DOTNETCORE.ConsoleApp.csproj", "{CEE97CF5-3C98-4F2E-B43E-816043932AD8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOTNETCORE.RestApi", "DOTNETCORE.RestApi\DOTNETCORE.RestApi.csproj", "{B5E08325-C1C1-4059-AC9F-85899609C3A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CEE97CF5-3C98-4F2E-B43E-816043932AD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEE97CF5-3C98-4F2E-B43E-816043932AD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEE97CF5-3C98-4F2E-B43E-816043932AD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5E08325-C1C1-4059-AC9F-85899609C3A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5E08325-C1C1-4059-AC9F-85899609C3A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5E08325-C1C1-4059-AC9F-85899609C3A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5E08325-C1C1-4059-AC9F-85899609C3A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

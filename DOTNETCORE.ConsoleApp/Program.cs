@@ -4,7 +4,7 @@ using System.Data.SqlClient;
 using System.Data;
 Console.WriteLine("Hello, World!");
 
-AdoDotNetExample adoDotNetExample = new AdoDotNetExample();
-adoDotNetExample.Run();
+//AdoDotNetExample adoDotNetExample = new AdoDotNetExample();
+//adoDotNetExample.Run();
 
 Console.ReadKey();
